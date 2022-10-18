@@ -29,6 +29,9 @@ const apis = {
     getAllPlaylists,
     getPlaylistPairs,
     getPlaylistById,
+    postPlaylist,
+    updatePlaylistById,
+    deletePlaylistById
 }
 
 export default apis
